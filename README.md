@@ -20,5 +20,4 @@ The Weather-Forecast uses the OpenWeatherMap API to get the current weather. Ope
 
 ## Interface Design
 
-https://github.com/Rupal-Gupta29/Weather-Forecast-JavaScript/assets/70842313/9d99f0c3-dd95-4224-939a-129c06277d69
-
+![ezgif com-crop (1)](https://github.com/Rupal-Gupta29/Weather-Forecast-JavaScript/assets/70842313/a5b0347f-0c7b-48d1-86d1-54359b383e6c)
