@@ -18,5 +18,7 @@ Additionally, our Weather Forecast Pro app offers a convenient location search f
 
 The Weather-Forecast uses the OpenWeatherMap API to get the current weather. OpenWeatherMap API is free to use for smaller-scale applications. Large applications with bigger user bases may need to opt into one of the paid plans in order to satisfy the higher call–per-minute needs.
 
+## Interface Design
 
+https://github.com/Rupal-Gupta29/Weather-Forecast-JavaScript/assets/70842313/9d99f0c3-dd95-4224-939a-129c06277d69
 
